@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    background-color: #e69e63;
+    }
+
+h1, h2, h3{
+    font-family: 'Poppins', sans-serif;
+   
+}
+
+    .jumbotron{
+        margin: 0;
+        padding: 30px;
+        color: #000000;
+    }
+    .navbar{
+        color: black;
+        font-size: 1rem;
+    }
+    #getStartedModal .modal-header {
+        background-color: #e69e63;
+        color: white; 
+        
+      }
+      
+      #loginModal .modal-header {
+        background-color: #e69e63;
+        color: white; 
+      }
+     
+     
+     .center {
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+      }
+      h2 {
+        padding:50px;
+        margin: 0;
+        text-align: center;
+      }
+      .row-content{
+          margin: 0;
+          text-align:center;
+      }
+     
+      
+     
